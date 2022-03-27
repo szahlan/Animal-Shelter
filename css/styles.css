@@ -1,0 +1,19 @@
+body {
+  text-align: justify;
+}
+h2{
+  text-align: center;
+}
+img {
+  margin: auto;
+  width: 75%;
+  height: auto;
+  display: block;
+}
+.column {
+  width: 250px;
+  float: left;
+}
+p {
+  padding: 20px;
+}
